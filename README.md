@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aryan Barde</h1>
-
 <h2 align="center">A passionate full stack web developer and an enthusiastic problem solver from India.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanbarde80&label=Profile%20views&color=0e75b6&style=flat" alt="aryanbarde80" /> </p>
