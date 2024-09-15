@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Full Stack Web Development
 
-- 👨‍💻 All of my projects are available at [https://navedkhan06.github.io/Portfolio/](https://navedkhan06.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at www
 
 - 💬 Ask me about Web Development
 
