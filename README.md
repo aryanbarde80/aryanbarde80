@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Full Stack Web Development
 
-- 👨‍💻 All of my projects are available at www
+- 👨‍💻 All of my projects are available at Github
 
 - 💬 Ask me about Web Development
 
