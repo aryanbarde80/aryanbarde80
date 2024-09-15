@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **My-Portfolio**
 
-- 🌱 I’m currently learning **reactjs, mongodb, nodejs, expressjs**
+- 🌱 I’m currently learning **Data Structure and Algorithms**
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
