@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aryan62505" target="blank"><img src="https://img.shields.io/twitter/follow/aryan62505?logo=twitter&style=for-the-badge" alt="aryan62505" /></a> </p>
 
-- 🔭 I’m currently working on **My-Portfolio**
+- 🔭 I’m currently working on **My-Startup**
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
