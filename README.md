@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aryanbarde80](https://github.com/aryanbarde80)
 
-- 💬 Ask me about **react, tailwind css, firebase**
+- 💬 Ask me about **ReactJs, Tailwind Css, Firebase**
 
 - 📫 How to reach me **aryanbarde80@gmail.com**
 
