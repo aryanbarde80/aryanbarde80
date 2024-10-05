@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **aryanbarde80@gmail.com**
 
-- 📄 Know about my experiences [https://hackerrank-resume.s3.us-east-1.amazonaws.com/uploads/21336706/MjEzMzY3MDY=.pdf](https://hackerrank-resume.s3.us-east-1.amazonaws.com/uploads/21336706/MjEzMzY3MDY=.pdf)
-
 - ⚡ Fun fact **Wanted to start my career as a game developer at rockstar games.**
 
 <h3 align="left">Connect with me:</h3>
