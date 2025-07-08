@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aryan Barde</h1>
-<h3 align="center">Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
+# Hi 👋, I'm Aryan Barde
+### Full Stack Developer | Problem Solver | Tech Enthusiast
 
 <p align="center">
   <a href="https://twitter.com/aryan62505" target="_blank">
@@ -23,57 +23,60 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
 - 🔭 Currently building my **startup project**
 - 🌱 Learning **Data Structures & Algorithms** and **System Design**
 - 👯 Looking to collaborate on **MERN stack projects**
 - 💬 Ask me about **React, Firebase, or any web dev stuff**
+- 📫 How to reach me: **aryanbarde80@gmail.com**
 - ⚡ Fun fact: **Dreamt of joining Rockstar Games as a developer**
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-#### Frontend
+### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### Backend
+### Backend
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### Other
+### Other
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryanbarde80&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanbarde80&theme=radical" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbarde80&layout=compact&theme=radical" />
-</div>
+</p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=aryanbarde80&theme=onedark&row=1&column=7)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aryanbarde80&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:aryanbarde80@gmail.com">
