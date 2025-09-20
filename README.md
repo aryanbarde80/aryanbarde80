@@ -7,12 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=aryanbarde80&label=Profile%20Views&color=0e75b6&style=flat" alt="aryanbarde80" /> 
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aryanbarde80&theme=onedark&row=1&column=7" alt="trophies" />
-  </a> 
-</p>
-
 ---
 
 ### 🌱 About Me
@@ -21,7 +15,7 @@
 - 🌱 Exploring **Data Structures & Algorithms**  
 - 👯 Open to collaborate on **MERN & Full Stack Projects**  
 - 👨‍💻 Check out all my projects: [GitHub Profile](https://github.com/aryanbarde80)  
-- 💬 Ask me about **React, Tailwind, Firebase, Node.js**  
+- 💬 Ask me about **React, Firebase, Node.js**  
 - 📫 Reach me at **aryanbarde80@gmail.com**  
 - ⚡ Fun fact: *Wanted to start my career as a game developer at Rockstar Games 🎮*  
 
@@ -40,10 +34,10 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack (Core)
 
 <p align="center"> 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,java,js,ts,py,cpp,go,php,aws,firebase,git,linux,tailwind,redux,django,flask,angular,vue,kotlin,cs,dotnet" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,firebase,express,tailwind,git,linux" />
 </p>
 
 ---
@@ -58,13 +52,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanbarde80&theme=tokyonight" alt="streak"/>
 </p>
-
----
-
-### 🐍 Contribution Graph Animation
-
-<p align="center">
-  <img src="https://github.com/aryanbarde80/aryanbarde80/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
