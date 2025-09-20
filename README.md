@@ -7,6 +7,12 @@
   <img src="https://komarev.com/ghpvc/?username=aryanbarde80&label=Profile%20Views&color=0e75b6&style=flat" alt="aryanbarde80" /> 
 </p>
 
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aryanbarde80&theme=onedark&row=1&column=7" alt="trophies" />
+  </a> 
+</p>
+
 ---
 
 ### 🌱 About Me
@@ -15,7 +21,7 @@
 - 🌱 Exploring **Data Structures & Algorithms**  
 - 👯 Open to collaborate on **MERN & Full Stack Projects**  
 - 👨‍💻 Check out all my projects: [GitHub Profile](https://github.com/aryanbarde80)  
-- 💬 Ask me about **React, Firebase, Node.js**  
+- 💬 Ask me about **React, Tailwind, Firebase, Node.js**  
 - 📫 Reach me at **aryanbarde80@gmail.com**  
 - ⚡ Fun fact: *Wanted to start my career as a game developer at Rockstar Games 🎮*  
 
