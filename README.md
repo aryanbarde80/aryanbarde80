@@ -26,9 +26,9 @@
 
 I'm a passionate **Computer Science student** and **Full Stack Developer** with expertise in building scalable web applications, AI/ML systems, IoT platforms, and cloud-native solutions. I love turning complex problems into simple, beautiful designs.
 
-- 🔭 I'm currently working on **Enterprise Solutions at Affastack**
+- 🔭 I'm currently working on **Enterprise Solutions & AI Projects**
 - 🌱 I'm currently learning **Advanced AI & Machine Learning**
-- 👯 I'm looking to collaborate on **Open Source AI Projects**
+- 👯 I'm looking to collaborate on **Open Source Projects**
 - 🤔 I'm looking for help with **Deep Learning Architectures**
 - 💬 Ask me about **React, Node.js, Python, AI, IoT, Cloud**
 - 📫 How to reach me: **aryanbarde80@gmail.com**
@@ -45,6 +45,7 @@ I'm a passionate **Computer Science student** and **Full Stack Developer** with 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 </p>
 
 ### 🌐 Web Development
@@ -54,6 +55,17 @@ I'm a passionate **Computer Science student** and **Full Stack Developer** with 
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
+
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ### 🎨 Frontend Technologies
@@ -62,6 +74,7 @@ I'm a passionate **Computer Science student** and **Full Stack Developer** with 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
 ### 🗄️ Backend & Databases
@@ -80,6 +93,7 @@ I'm a passionate **Computer Science student** and **Full Stack Developer** with 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
 ### 🔌 IoT & Embedded
@@ -94,12 +108,12 @@ I'm a passionate **Computer Science student** and **Full Stack Developer** with 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryanbarde80&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryanbarde80&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanbarde80&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbarde80&layout=compact&theme=radical&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbarde80&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
 ---
@@ -115,11 +129,11 @@ I'm a passionate **Computer Science student** and **Full Stack Developer** with 
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Working on AI-powered defect detection systems
-2. 🚀 Developing scalable IoT platforms
-3. 💻 Building enterprise-grade web applications
-4. 🔧 Contributing to open source projects
-5. 📚 Learning advanced machine learning concepts
+1. 🎉 Working on AI-powered computer vision systems
+2. 🚀 Developing scalable enterprise solutions
+3. 💻 Building real-time IoT applications
+4. 🔧 Creating interactive 3D web experiences
+5. 📚 Learning advanced cloud architectures
 <!--END_SECTION:activity-->
 
 ---
@@ -127,17 +141,18 @@ I'm a passionate **Computer Science student** and **Full Stack Developer** with 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=aryanbarde80&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=aryanbarde80&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
 
-## 🎯 Currently Working On
+## 🎯 What I'm Building
 
-- 🤖 **AI Inspector** - Computer vision defect detection system
-- 🌐 **Supplier Experience Portal** - Enterprise Frappe framework solution
-- 🔗 **Real-time IoT Console** - MQTT based device monitoring
-- 🎮 **3D Interactive Websites** - Three.js powered web experiences
+- 🤖 **AI-Powered Systems** - Computer vision and machine learning applications
+- 🌐 **Enterprise Solutions** - Scalable web platforms and portals
+- 🔗 **IoT Ecosystems** - Real-time device monitoring and control
+- 🎮 **Interactive Experiences** - 3D graphics and immersive web apps
+- ☁️ **Cloud Infrastructure** - Scalable and secure cloud architectures
 
 ---
 
@@ -150,6 +165,7 @@ I'm a passionate **Computer Science student** and **Full Stack Developer** with 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/aryanbarde80)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanbarde80@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aryanbarde80.github.io/My-Portfolio)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryanbarde80)
 
 </div>
 
@@ -157,7 +173,7 @@ I'm a passionate **Computer Science student** and **Full Stack Developer** with 
 
 <div align="center">
 
-### 💡 *"The only way to do great work is to love what you do."* - Steve Jobs
+### 💡 *"Innovation distinguishes between a leader and a follower."* - Steve Jobs
 
 ⭐️ From [aryanbarde80](https://github.com/aryanbarde80)
 
