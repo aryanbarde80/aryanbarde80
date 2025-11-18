@@ -1,60 +1,115 @@
-<h1 align="center">Hi 👋, I'm Aryan Barde</h1>
-<h3 align="center">💻 Full Stack Web & Mobile Developer | 🚀 Problem Solver | 🌍 From India</h3>
+<h1 align="center">Hello World, I'm Aryan Barde 👋</h1>
+<h3 align="center">Full Stack Developer | IoT Enthusiast | Cloud Architect</h3>
 
 ---
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=aryanbarde80&label=Profile%20Views&color=0e75b6&style=flat" alt="aryanbarde80" /> 
-</p>
+## 🚀 About Me
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aryanbarde80&theme=onedark&row=1&column=7" alt="trophies" />
-  </a> 
-</p>
+I'm a passionate Computer Science student and full-stack developer with a strong focus on building scalable applications, IoT systems, and cloud-native solutions. I enjoy turning complex problems into elegant, efficient code.
 
----
-
-### 🌱 About Me
-
-- 🔭 Currently working on **My Startup Projects**  
-- 🌱 Exploring **Data Structures & Algorithms**  
-- 👯 Open to collaborate on **MERN & Full Stack Projects**  
-- 👨‍💻 Check out all my projects: [GitHub Profile](https://github.com/aryanbarde80)  
-- 💬 Ask me about **React, Tailwind, Firebase, Node.js**  
-- 📫 Reach me at **aryanbarde80@gmail.com**  
-- ⚡ Fun fact: *Wanted to start my career as a game developer at Rockstar Games 🎮*  
+- 🔭 **Currently:** Software Engineer Intern at Alfastack Solutions
+- 🌱 **Learning:** Advanced System Design & Cloud Architecture
+- 💼 **Experience:** Full-stack development, IoT systems, ERP solutions
+- 📫 **Reach me:** aryanbarde80@gmail.com
+- 🌐 **Portfolio:** aryanbarde80.github.io/My-Portfolio
 
 ---
 
-### 🌐 Connect With Me  
+## 💼 Experience
+
+### **Affastack Solutions Pvt Ltd**
+*Full Stack Developer | Sep 2025 - Present*
+- Developed supplier and customer experience portals using Frappe framework
+- Built computer vision-based defect detection systems
+- Implemented real-time data integration between frontend and backend systems
+
+### **TheSmartBridge**
+*Salesforce Developer Trainee | Jul 2025 - Oct 2025*
+- Enterprise CRM solutions development
+- Salesforce customization and automation
+- Business process optimization
+
+### **Ouranos Robotics**
+*Full Stack Developer & Team Lead | Intern*
+- Engineered real-time IoT monitoring platforms
+- Led development team and established agile processes
+- Built interactive 3D company website with Three.js
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### **Tools & Technologies**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://twitter.com/aryan62505" target="blank"><img src="https://img.shields.io/twitter/follow/aryan62505?logo=twitter&style=for-the-badge" alt="twitter"/></a>
-  <a href="https://linkedin.com/in/aryanbarde80/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="linkedin"/></a>
-  <a href="https://www.leetcode.com/aryanbarde80" target="blank"><img src="https://img.shields.io/badge/-LeetCode-orange?logo=leetcode&style=for-the-badge" alt="leetcode"/></a>
-  <a href="https://www.codechef.com/users/aryanbarde55" target="blank"><img src="https://img.shields.io/badge/-CodeChef-brown?logo=codechef&style=for-the-badge" alt="codechef"/></a>
-  <a href="https://www.hackerrank.com/aryanbarde80" target="blank"><img src="https://img.shields.io/badge/-HackerRank-darkgreen?logo=hackerrank&style=for-the-badge" alt="hackerrank"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/aryanbax781" target="blank"><img src="https://img.shields.io/badge/-GeeksforGeeks-green?logo=geeksforgeeks&style=for-the-badge" alt="gfg"/></a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aryanbarde80&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbarde80&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanbarde80&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack (Core)
+## 🏆 Achievements
 
-<p align="center"> 
-<img src="https://skillicons.dev/icons?i=react,nodejs,firebase,express,tailwind,git,linux" />
+- **TCS CodeVita Season 13** - Qualified for Round 2 (Nov 2025)
+- **TechSynergy: IoT Showcase** - Second Place at Gyanotsav 2025
+- **College Topper** - 3-Time Code360 Leaderboard Topper
+- **Intern of the Month** - Ouranos Robotics (Sep 2024)
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/aryanbarde80" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/aryanbarde80" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="mailto:aryanbarde80@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanbarde80&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbarde80&layout=compact&theme=tokyonight" alt="top-langs" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanbarde80&theme=tokyonight" alt="streak"/>
-</p>
+<div align="center">
+  
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+  
+</div>
