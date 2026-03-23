@@ -1,17 +1,25 @@
+I understand you want more impressive visual elements and less of the standard GitHub stats graphs. Here's an updated version with more show-off worthy visualizations:
+
+---
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aryan+Barde!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aryan+Barde!;+Full+Stack+Architect+🚀;+AI/ML+Engineer+🤖;+IoT+Specialist+🔌" />
 </h1>
 
 <div align="center">
-  <h3>🚀 Full Stack Architect | AI/ML Engineer | IoT Specialist | Cloud Native Developer 🚀</h3>
+  <img src="https://raw.githubusercontent.com/aryanbarde80/aryanbarde80/main/assets/banner.gif" width="100%" alt="Banner"/>
 </div>
 
 <div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=10%2B+Projects+Delivered;5%2B+Teams+Led;40%25+Performance+Improvements;95%25+AI+Model+Accuracy;4+Open+Source+Contributions)
 
-![GitHub Views](https://komarev.com/ghpvc/?username=aryanbarde80&style=flat-square&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/aryanbarde80?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/aryanbarde80?style=social)
+</div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aryanbarde80&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/github/followers/aryanbarde80?style=for-the-badge&logo=github&color=blueviolet" />
+  <img src="https://img.shields.io/github/stars/aryanbarde80?style=for-the-badge&logo=github&color=gold" />
 </div>
 
 ---
@@ -24,159 +32,216 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
-I'm a passionate **Computer Science student** and **Full Stack Developer** with a focus on building scalable, intelligent systems. My expertise spans the full development lifecycle, from architecting cloud-native backends to crafting intuitive frontend experiences and integrating AI/ML models into production.
+I'm a **Computer Science Engineer** who turns coffee into scalable systems. I've led teams, built IoT platforms from scratch, and pushed AI models to production. Currently obsessed with **GenAI**, **Edge Computing**, and **System Design**.
 
-- 🔭 I'm currently building **GenAI-powered applications** and **scalable enterprise backends**.
-- 🌱 I'm expanding my knowledge in **MLOps**, **Kubernetes**, and **advanced system design**.
-- 👯 I'm looking to collaborate on **open-source AI/ML tools** and **innovative cloud solutions**.
-- 🤔 I'm seeking insights on **distributed systems** and **real-time data processing**.
-- 💬 Ask me about **React, Node.js, Python, AI, Cloud Architecture (AWS/GCP)**.
-- 📫 How to reach me: **aryanbarde80@gmail.com**
-- ⚡ Fun fact: I'm also passionate about **Game Development & 3D Graphics** and love exploring new creative tech.
+- 🎯 **TCS CodeVita 2025**: AIR 4900+ (Top 5% nationally)
+- 🏆 **TechSynergy IoT Showcase**: 2nd Place Winner
+- ⭐ **5/5 Rating** - Outstanding Performance Recognition
+- 🎖️ **Intern of the Month** Awardee
+- 🤝 **4 Accepted PRs** - Hacktoberfest 2024
 
 ---
 
-## 🛠️ My Tech Arsenal
-
-### 🧠 AI, ML & Data
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-### 🌐 Modern Web Development
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-</p>
-
-### 💻 Core Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
-
-### 🗄️ Databases & Caching
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-</p>
-
-### ☁️ Cloud, DevOps & Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
-### 🔌 IoT & Edge
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats & Activity
+## 📈 Performance Metrics & Achievements
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryanbarde80&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanbarde80&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbarde80&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanbarde80&theme=radical" width="100%"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=aryanbarde80&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=ff4d4d&icon_color=ff4d4d&ring_color=ff4d4d" width="400"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanbarde80&theme=radical&hide_border=true&background=0d1117&stroke=ff4d4d&ring=ff4d4d&fire=ff4d4d&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff4d4d&sideLabels=ffffff" width="400"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanbarde80&theme=radical" width="800"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Key Achievements Dashboard
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryanbarde80&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+  <table>
+    <tr>
+      <td align="center">
+        <h3>📊 Code Rankings</h3>
+        <img src="https://leetcard.jacoblin.cool/aryanbarde80?theme=dark&font=Karma&ext=heatmap" width="350"/>
+      </td>
+      <td align="center">
+        <h3>🏆 Trophies</h3>
+        <img src="https://github-profile-trophy.vercel.app/?username=aryanbarde80&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" width="450"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🔥 Recent Development
-
-<!--START_SECTION:activity-->
-1. 🚀 Launched a new **GenAI-powered document analysis tool** using LangChain and GPT-4.
-2. 🐳 Containerized a complex microservices application with **Docker and Kubernetes**.
-3. 🤝 Contributed to the **Next.js** documentation for the new App Router patterns.
-4. ☁️ Architected a serverless data pipeline on **AWS** using Lambda, S3, and DynamoDB.
-5. 🎮 Built a real-time multiplayer game lobby with **WebSockets and React**.
-<!--END_SECTION:activity-->
-
----
-
-## 📈 Contribution Graph
+## 🚀 Impact Metrics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanbarde80&theme=react-dark&bg_color=20232a&hide_border=true&area=true&area_color=58a6ff&line=58a6ff&point=1f6feb&custom_title=Contribution%20Graph" width="100%"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Performance-40%25_Reduction-brightgreen?style=for-the-badge&logo=chartjs&logoColor=white"/>
+        <p>API Latency Reduction</p>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Accuracy-95%25-success?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+        <p>AI Defect Detection</p>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Traffic-30%25_Increase-blue?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+        <p>Organic Traffic Growth</p>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/SEO-40_Positions_Up-orange?style=for-the-badge&logo=google&logoColor=white"/>
+        <p>Search Ranking Improvement</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🎯 What I'm Building & Exploring
+## 📈 Contribution Activity
 
-- 🤖 **Generative AI Applications**: Building RAG pipelines, AI agents, and LLM-powered tools.
-- 🌐 **Scalable Full-Stack Systems**: Architecting robust backends with Go/Rust and modern frontends with Next.js.
-- 🔗 **IoT & Edge AI**: Creating real-time monitoring and control systems with computer vision at the edge.
-- 🎨 **Interactive Experiences**: Developing immersive 3D web apps using Three.js and WebGL.
-- ☁️ **Cloud-Native Infrastructure**: Designing and deploying resilient, auto-scaling applications on AWS/GCP with Kubernetes.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanbarde80&theme=high-contrast&bg_color=0d1117&hide_border=true&area=true&area_color=ff4d4d&line=ff4d4d&point=ffffff&custom_title=🔥%20Contribution%20Heatmap%20🔥" width="100%"/>
+</div>
 
 ---
 
-## 📫 Let's Connect!
+## 🛠️ Tech Stack Mastery
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,python,java,cpp,go,ts,tailwind,threejs,postgres,mongodb,redis,aws,gcp,docker,kubernetes,git,githubactions,linux,raspberrypi,arduino&perline=11" />
+</div>
 
+---
+
+## 🎯 Skills Radar
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbarde80&layout=radar&theme=radical&hide_border=true&langs_count=10&bg_color=0d1117&title_color=ff4d4d" width="400"/>
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryanbarde80&theme=radical" width="400"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🔥 Recent Achievements
+
+<div align="center">
+  <table>
+    <tr>
+      <td>🏆 <b>TCS CodeVita Round 2</b> - AIR 4905</td>
+      <td>🎖️ <b>3-Time College Coding Topper</b> - Code360</td>
+    </tr>
+    <tr>
+      <td>🥈 <b>TechSynergy IoT Showcase</b> - 2nd Place</td>
+      <td>⭐ <b>5/5 Rating</b> - Internship Excellence</td>
+    </tr>
+    <tr>
+      <td>🏅 <b>Intern of the Month</b> - Ouranos Robotics</td>
+      <td>🤝 <b>4 PRs Merged</b> - Hacktoberfest 2024</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 Weekly Development Breakdown
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aryanbarde80&theme=radical&hide_border=true&layout=compact&range=last_30_days&bg_color=0d1117&title_color=ff4d4d" width="500"/>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```mermaid
+pie
+    "Full Stack Development" : 35
+    "AI/ML Engineering" : 30
+    "Cloud Architecture" : 20
+    "IoT Systems" : 15
+```
+
+---
+
+## 🌟 Featured Projects Impact
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Impact</th>
+      <th>Tech Stack</th>
+    </tr>
+    <tr>
+      <td>IoT Monitoring Platform</td>
+      <td>📈 40% Latency Reduction</td>
+      <td>React, Node.js, MQTT, Redis</td>
+    </tr>
+    <tr>
+      <td>AI Defect Detection</td>
+      <td>🎯 95% Accuracy</td>
+      <td>YOLOv8, OpenCV, Python</td>
+    </tr>
+    <tr>
+      <td>Digital Transformation</td>
+      <td>🚀 30% Traffic Increase</td>
+      <td>Next.js, Tailwind, SEO</td>
+    </tr>
+    <tr>
+      <td>Cloud DBMS Platform</td>
+      <td>🔒 Secure RBAC Implementation</td>
+      <td>PERN Stack, NeonDB</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanbarde80)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aryan62505)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/aryanbarde80)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanbarde80@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aryanbarde80.github.io/My-Portfolio)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aryanbarde80)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aryanbarde80.github.io/My-Portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryanbarde80)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanbarde80@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-### 💡 *"The best way to predict the future is to invent it."* - Alan Kay
-
-⭐️ From [aryanbarde80](https://github.com/aryanbarde80)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=12" width="100%"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+<div align="center">
+  
+### 💡 *"Code. Create. Conquer."*
+
+⭐️ **Star this repo if you like what you see!** ⭐️
+
+</div>
