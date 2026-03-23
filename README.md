@@ -1,7 +1,3 @@
-I understand you want more impressive visual elements and less of the standard GitHub stats graphs. Here's an updated version with more show-off worthy visualizations:
-
----
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aryan+Barde!;+Full+Stack+Architect+🚀;+AI/ML+Engineer+🤖;+IoT+Specialist+🔌" />
 </h1>
